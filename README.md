@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://wallpaperscave.com/images/original/18/04-25/anime-one-punch-man-44886.jpg">
-</p>
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fryostar%2FSaitamaRobot&plugins=postgresql&envs=API_ID%2CAPI_HASH%2CTOKEN%2COWNER_ID%2COWNER_USERNAME%2CSUPPORT_CHAT%2CJOIN_LOGGER%2CEVENT_LOGS%2CSQLALCHEMY_DATABASE_URI%2CLOAD%2CNO_LOAD%2CWEBHOOK%2CINFOPIC%2CURL%2CSPAMWATCH_API%2CSPAMWATCH_SUPPORT_CHAT%2CDRAGONS%2CSTRICT_GBAN%2CDEL_CMDS%2CWORKERS%2CALLOW_EXCL%2CTIME_API_KEY%2CAI_API_KEY&optionalEnvs=LOAD%2CNO_LOAD%2CSPAMWATCH_API%2CSPAMWATCH_SUPPORT_CHAT&SQLALCHEMY_DATABASE_URIDefault=something%3A%2F%2Fsomewhat%3Auser%40hosturl%3Aport%2Fdatabasename&NO_LOADDefault=rss&WEBHOOKDefault=False&INFOPICDefault=True&URLDefault=None&DEL_CMDSDefault=True&WORKERSDefault=8&ALLOW_EXCLDefault=True&TIME_API_KEYDefault=awoo&AI_API_KEYDefault=awoo&referralCode=hQNLiM)
 
 # Saitama Robot
 
